@@ -1,1 +1,1 @@
-# Caesar-Cipher
+We created two functions called encrypt and decrypt in which encrypt function takes a word or a sentence and a key as an input and increents the word or a sentence by that key and the decrypt functions decrements the word or a sentence by that key. first the user is asked what they want to perform and if they ask us to encrypt then encrypt function is called and it's executed to give us an answer and if we ask to decrypt then viceversa.
